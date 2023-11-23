@@ -1,0 +1,9 @@
+/home/bee/projects/kats-qt-widgets/build-kats-qt-widgets-Desktop-Debug/CMakeFiles/kats-qt-widgets.dir
+/home/bee/projects/kats-qt-widgets/build-kats-qt-widgets-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/bee/projects/kats-qt-widgets/build-kats-qt-widgets-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/bee/projects/kats-qt-widgets/build-kats-qt-widgets-Desktop-Debug/CMakeFiles/list_install_components.dir
+/home/bee/projects/kats-qt-widgets/build-kats-qt-widgets-Desktop-Debug/CMakeFiles/install.dir
+/home/bee/projects/kats-qt-widgets/build-kats-qt-widgets-Desktop-Debug/CMakeFiles/install/local.dir
+/home/bee/projects/kats-qt-widgets/build-kats-qt-widgets-Desktop-Debug/CMakeFiles/install/strip.dir
+/home/bee/projects/kats-qt-widgets/build-kats-qt-widgets-Desktop-Debug/CMakeFiles/kats-qt-widgets_autogen_timestamp_deps.dir
+/home/bee/projects/kats-qt-widgets/build-kats-qt-widgets-Desktop-Debug/CMakeFiles/kats-qt-widgets_autogen.dir
